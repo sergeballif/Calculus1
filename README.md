@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# NSC-Math-181
+Guided Practice Assignments for Calculus 1
 
-You can use the [editor on GitHub](https://github.com/sergeballif/Calculus1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the home to the webpages and other class resources for Math 181 at Nevada State College. Most of this work has been modified by Serge Ballif from the original work of [Robert Talbert](http://rtalbert.org) at GVSU at https://github.com/RobertTalbert/calculus. The course is taught using an inverted or flipped class design. Under this design: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ Students work prior to class, through structured preparatory activities called Guided Practice, to attain fluency on a set of basic Learning Objectives. 
++ During class, students work actively with the instructor's direct assistance on challenging problems on deeper, more advanced learning objectives. 
 
-### Markdown
+The course also uses specifications grading, which is described [here](http://www.utimes.pitt.edu/?p=30598). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The materials in this repo correspond to the chapters and sections in the textbook [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Download.html) by Matt Boelkins, a free and open source calculus text. 
 
-```markdown
-Syntax highlighted code block
+Over 9 hours of video screencasts were created by Grand Valley State University to go along with the textbook. The videos for the course and are housed [at the GVSU Mathematics Department YouTube channel](http://bit.ly/GVSUCalculus). 
 
-# Header 1
-## Header 2
-### Header 3
+All materials are licensed under a [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/us/). 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sergeballif/Calculus1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information on the original files, contact Robert Talbert at talbertr@gvsu.edu or visit his website at http://rtalbert.org. 
